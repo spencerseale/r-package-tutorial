@@ -1,5 +1,5 @@
 # R Package Dev
-A walkthrough in R package development by Spencer Seale
+_A walkthrough in R package development by Spencer Seale_
 
 Last revised October 2020
 
